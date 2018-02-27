@@ -5,7 +5,7 @@
  
 ### Example Python and R Scripts
 * [lm_model.py](https://github.com/RebeccaMerrett/data_science_beginner_lm/blob/master/lm_model.py)
-* [lm_model.txt](https://github.com/RebeccaMerrett/data_science_beginner_lm/blob/master/lm_model) 
+* [lm_model.txt](https://github.com/RebeccaMerrett/data_science_beginner_lm/blob/master/lm_model.dms) 
  
 ### Programs/Software
 * [python.org/downloads](https://www.python.org/downloads/)
